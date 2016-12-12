@@ -12,9 +12,10 @@
 [区块链技术是什么？未来可能用于哪些方面？](https://www.zhihu.com/question/27687960)
 
 ## 社区
-[巴比特](http://www.8btc.com/)   
+[巴比特](http://www.8btc.com/)  
 [CSDN区块链知识库](http://lib.csdn.net/base/blockchain)
 
 ## 教程
 [Node.js开发加密货币](http://bitcoin-on-nodejs.ebookchain.org/)  
+[区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)  
 [￼从 0 到 1 建立自己的区块链](http://www.8btc.com/build-your-own-blockchain)
